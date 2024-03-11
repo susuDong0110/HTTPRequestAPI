@@ -1,7 +1,7 @@
 {
   "name": "httprequestapi",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "httprequestapi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,7 +30,8 @@
     "dependencies": {
         "weex-html5": "^0.3.2",
         "weex-components": "*",
-        "soapafnetworking":"*"
+        "soapafnetworking":"*",
+        "cyclescrollvie":"*"
     },
     "repository":{
     "type": "git",
